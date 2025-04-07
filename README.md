@@ -6,7 +6,7 @@ This repository contains Jupyter notebooks demonstrating how to access relationa
 
 - **Intro to DB-API**: Overview of Python's Database API (DB-API) and its importance in database interactions.
 - **Connecting to Databases**: Examples of connecting to databases like IBM Db2 using the `ibm_db` library.
-- **Executing SQL Queries**: How to write and execute SQL statements directly from Python.
+- **Executing SQL Queries**: How to write and execute SQL statements directly from Python using various methods including **"Magic statements"**.
 - **Using Pandas with SQL**: Fetching SQL query results into Pandas DataFrames for analysis.
 - **Transactions & Error Handling**: Basic handling of transactions and database operation errors.
 
